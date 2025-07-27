@@ -1,2 +1,2 @@
 # FYP---Complaints-Resolution-Hub
-I will update it after completion
+The project is under development. I will update it after completion.
